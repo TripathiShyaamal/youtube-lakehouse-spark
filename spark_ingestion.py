@@ -1,7 +1,6 @@
 import json
-import os
+import urllib.request
 from pyspark.sql import SparkSession
-from datetime import datetime
 
 spark = SparkSession.builder \
     .appName("youtube-ingestion") \
@@ -9,14 +8,10 @@ spark = SparkSession.builder \
 
 print("Spark started successfully")
 
-cache_data = os.environ.get("CACHE_DATA", "")
+cache_url = "https://raw.githubusercontent.com/TripathiShyaamal/youtube-lakehouse-spark/main/search_cache.json"
+response = urllib.request.urlopen(cache_url)
+cache = json.loads(response.read().decode("utf-8"))
 
-if not cache_data:
-    print("No cache data provided")
-    spark.stop()
-    exit(0)
-
-cache = json.loads(cache_data)
 print(f"Loaded {len(cache)} entries from cache")
 
 spark.sql("CREATE DATABASE IF NOT EXISTS youtube_tracker")
