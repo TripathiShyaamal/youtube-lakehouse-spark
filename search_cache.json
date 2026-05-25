@@ -1,0 +1,2824 @@
+[
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 123795939341,
+      "total_subscribers": 488000000,
+      "total_videos": 981,
+      "fetched_at": "2026-05-22T08:24:39.515369"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728179582,
+        "like_count": 26553103,
+        "comment_count": 44236,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-22T08:24:40.228495"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 709699763,
+        "like_count": 26972181,
+        "comment_count": 36156,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-22T08:24:40.228502"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "VEGq2Du_HCw",
+        "title": "Subscribe for $10,000",
+        "view_count": 583201830,
+        "like_count": 3517391,
+        "comment_count": 56419,
+        "engagement_rate_percent": 0.6,
+        "fetched_at": "2026-05-22T08:24:40.228505"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 541835047,
+        "like_count": 8102322,
+        "comment_count": 10866,
+        "engagement_rate_percent": 1.5,
+        "fetched_at": "2026-05-22T08:24:40.228472"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460333156,
+        "like_count": 16817465,
+        "comment_count": 26564,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-22T08:24:40.228455"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "c0v8OPItCOg",
+        "title": "$100,000,000 Bathroom",
+        "view_count": 377087693,
+        "like_count": 12810170,
+        "comment_count": 23631,
+        "engagement_rate_percent": 3.4,
+        "fetched_at": "2026-05-22T08:24:40.228508"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353301372,
+        "like_count": 8256428,
+        "comment_count": 11299,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-22T08:24:40.228481"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "R_BmT1OJw98",
+        "title": "Every YouTube Play Button I Have",
+        "view_count": 318918006,
+        "like_count": 4179114,
+        "comment_count": 23846,
+        "engagement_rate_percent": 1.31,
+        "fetched_at": "2026-05-22T08:24:40.228484"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 133666964,
+        "like_count": 3218158,
+        "comment_count": 11683,
+        "engagement_rate_percent": 2.41,
+        "fetched_at": "2026-05-22T08:24:40.228499"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110508861,
+        "like_count": 2582490,
+        "comment_count": 14415,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-22T08:24:40.228477"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225745,
+        "fetched_at": "2026-05-22T08:24:40.604047"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258733,
+        "fetched_at": "2026-05-22T08:24:40.604065"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@RyzZzgamingLive",
+        "text": "World&#39;s fastest cleaner \u274c World&#39;s slowest door unlocker \u2705",
+        "likes": 13681,
+        "fetched_at": "2026-05-22T08:24:40.604070"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Saymka22",
+        "text": "A super fast Cleaner",
+        "likes": 1,
+        "fetched_at": "2026-05-22T08:24:40.604073"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@dnsvls",
+        "text": "That weird feeling of finding out that your favorite characters exist in the same universe \ud83d\ude02",
+        "likes": 3859,
+        "fetched_at": "2026-05-22T08:24:40.604076"
+      }
+    ],
+    "cached_at": "2026-05-22T08:24:40.604153"
+  },
+  {
+    "channel": {
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_name": "Fireship",
+      "total_views": 701129407,
+      "total_subscribers": 4200000,
+      "total_videos": 810,
+      "fetched_at": "2026-05-22T08:28:59.705773"
+    },
+    "videos": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "title": "C++ in 100 Seconds",
+        "view_count": 2566095,
+        "like_count": 89767,
+        "comment_count": 2085,
+        "engagement_rate_percent": 3.5,
+        "fetched_at": "2026-05-22T08:29:00.414078"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5C_HPTJg5ek",
+        "title": "Rust in 100 Seconds",
+        "view_count": 2416859,
+        "like_count": 83464,
+        "comment_count": 1589,
+        "engagement_rate_percent": 3.45,
+        "fetched_at": "2026-05-22T08:29:00.414070"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "UA7NSpzG98s",
+        "title": "client got faded, I got paid",
+        "view_count": 1851332,
+        "like_count": 115045,
+        "comment_count": 1396,
+        "engagement_rate_percent": 6.21,
+        "fetched_at": "2026-05-22T08:29:00.414062"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "scEDHsr3APg",
+        "title": "DevOps CI/CD Explained in 100 Seconds",
+        "view_count": 1756591,
+        "like_count": 62651,
+        "comment_count": 401,
+        "engagement_rate_percent": 3.57,
+        "fetched_at": "2026-05-22T08:29:00.414057"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "gGWQfV1FCis",
+        "title": "real HTML programmers debug in 3D",
+        "view_count": 1652856,
+        "like_count": 87694,
+        "comment_count": 1010,
+        "engagement_rate_percent": 5.31,
+        "fetched_at": "2026-05-22T08:29:00.414088"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "QKgTZWbwD1U",
+        "title": "Godot in 100 Seconds",
+        "view_count": 1640797,
+        "like_count": 75835,
+        "comment_count": 1771,
+        "engagement_rate_percent": 4.62,
+        "fetched_at": "2026-05-22T08:29:00.414083"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "eZ74x6dVYes",
+        "title": "Raspberry Pi Explained in 100 Seconds",
+        "view_count": 1495459,
+        "like_count": 63635,
+        "comment_count": 668,
+        "engagement_rate_percent": 4.26,
+        "fetched_at": "2026-05-22T08:29:00.414051"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "njdJeu95p6s",
+        "title": "Top 3 Ways to Center a DIV with CSS #Shorts",
+        "view_count": 1481216,
+        "like_count": 102563,
+        "comment_count": 832,
+        "engagement_rate_percent": 6.92,
+        "fetched_at": "2026-05-22T08:29:00.414066"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "zBZgdTb-dns",
+        "title": "Supabase in 100 Seconds",
+        "view_count": 917033,
+        "like_count": 28203,
+        "comment_count": 458,
+        "engagement_rate_percent": 3.08,
+        "fetched_at": "2026-05-22T08:29:00.414074"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5_t_I_4OuwQ",
+        "title": "get a grip on grep",
+        "view_count": 503650,
+        "like_count": 31888,
+        "comment_count": 224,
+        "engagement_rate_percent": 6.33,
+        "fetched_at": "2026-05-22T08:29:00.414023"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@ShortHax",
+        "text": "C++ is like Lego. You can assemble the castle of your dreams, or you can scream in pain as you step on the pieces scattered on the floor",
+        "likes": 26696,
+        "fetched_at": "2026-05-22T08:29:00.699972"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@helpfulprogrammer",
+        "text": "In C++ we don&#39;t say &quot;Missing asterisk&quot; we say &quot;error C2664: &#39;void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)&#39;: cannot convert argument 1 from &#39;std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;&#39; to &#39;block &amp;&amp;&#39;&quot;",
+        "likes": 14399,
+        "fetched_at": "2026-05-22T08:29:00.699986"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@jomy10-games",
+        "text": "\u201cWe can get rid of this STD though\u201d<br><b>listens carefully</b>",
+        "likes": 3167,
+        "fetched_at": "2026-05-22T08:29:00.699991"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@alin1179",
+        "text": "Alright, I&#39;m going to add C++ to my cv",
+        "likes": 624,
+        "fetched_at": "2026-05-22T08:29:00.699995"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@zerxer7987",
+        "text": "I didnt know programming languages had std&#39;s",
+        "likes": 279,
+        "fetched_at": "2026-05-22T08:29:00.699998"
+      }
+    ],
+    "cached_at": "2026-05-22T08:29:00.700493"
+  },
+  {
+    "channel": {
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_name": "Fireship",
+      "total_views": 701129407,
+      "total_subscribers": 4200000,
+      "total_videos": 810,
+      "fetched_at": "2026-05-22T08:29:04.963099"
+    },
+    "videos": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "title": "C++ in 100 Seconds",
+        "view_count": 2566095,
+        "like_count": 89767,
+        "comment_count": 2085,
+        "engagement_rate_percent": 3.5,
+        "fetched_at": "2026-05-22T08:29:05.645597"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5C_HPTJg5ek",
+        "title": "Rust in 100 Seconds",
+        "view_count": 2416859,
+        "like_count": 83464,
+        "comment_count": 1589,
+        "engagement_rate_percent": 3.45,
+        "fetched_at": "2026-05-22T08:29:05.645586"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "UA7NSpzG98s",
+        "title": "client got faded, I got paid",
+        "view_count": 1851332,
+        "like_count": 115045,
+        "comment_count": 1396,
+        "engagement_rate_percent": 6.21,
+        "fetched_at": "2026-05-22T08:29:05.645575"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "scEDHsr3APg",
+        "title": "DevOps CI/CD Explained in 100 Seconds",
+        "view_count": 1756591,
+        "like_count": 62651,
+        "comment_count": 401,
+        "engagement_rate_percent": 3.57,
+        "fetched_at": "2026-05-22T08:29:05.645569"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "gGWQfV1FCis",
+        "title": "real HTML programmers debug in 3D",
+        "view_count": 1652856,
+        "like_count": 87694,
+        "comment_count": 1010,
+        "engagement_rate_percent": 5.31,
+        "fetched_at": "2026-05-22T08:29:05.645607"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "QKgTZWbwD1U",
+        "title": "Godot in 100 Seconds",
+        "view_count": 1640797,
+        "like_count": 75835,
+        "comment_count": 1771,
+        "engagement_rate_percent": 4.62,
+        "fetched_at": "2026-05-22T08:29:05.645602"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "eZ74x6dVYes",
+        "title": "Raspberry Pi Explained in 100 Seconds",
+        "view_count": 1495459,
+        "like_count": 63635,
+        "comment_count": 668,
+        "engagement_rate_percent": 4.26,
+        "fetched_at": "2026-05-22T08:29:05.645560"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "njdJeu95p6s",
+        "title": "Top 3 Ways to Center a DIV with CSS #Shorts",
+        "view_count": 1481216,
+        "like_count": 102563,
+        "comment_count": 832,
+        "engagement_rate_percent": 6.92,
+        "fetched_at": "2026-05-22T08:29:05.645580"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "zBZgdTb-dns",
+        "title": "Supabase in 100 Seconds",
+        "view_count": 917033,
+        "like_count": 28203,
+        "comment_count": 458,
+        "engagement_rate_percent": 3.08,
+        "fetched_at": "2026-05-22T08:29:05.645591"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5_t_I_4OuwQ",
+        "title": "get a grip on grep",
+        "view_count": 503650,
+        "like_count": 31888,
+        "comment_count": 224,
+        "engagement_rate_percent": 6.33,
+        "fetched_at": "2026-05-22T08:29:05.645536"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@ShortHax",
+        "text": "C++ is like Lego. You can assemble the castle of your dreams, or you can scream in pain as you step on the pieces scattered on the floor",
+        "likes": 26696,
+        "fetched_at": "2026-05-22T08:29:06.025264"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@helpfulprogrammer",
+        "text": "In C++ we don&#39;t say &quot;Missing asterisk&quot; we say &quot;error C2664: &#39;void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)&#39;: cannot convert argument 1 from &#39;std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;&#39; to &#39;block &amp;&amp;&#39;&quot;",
+        "likes": 14399,
+        "fetched_at": "2026-05-22T08:29:06.025276"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@jomy10-games",
+        "text": "\u201cWe can get rid of this STD though\u201d<br><b>listens carefully</b>",
+        "likes": 3167,
+        "fetched_at": "2026-05-22T08:29:06.025280"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@alin1179",
+        "text": "Alright, I&#39;m going to add C++ to my cv",
+        "likes": 624,
+        "fetched_at": "2026-05-22T08:29:06.025284"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@zerxer7987",
+        "text": "I didnt know programming languages had std&#39;s",
+        "likes": 279,
+        "fetched_at": "2026-05-22T08:29:06.025287"
+      }
+    ],
+    "cached_at": "2026-05-22T08:29:06.025669"
+  },
+  {
+    "channel": {
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_name": "Veritasium",
+      "total_views": 4278200936,
+      "total_subscribers": 20700000,
+      "total_videos": 504,
+      "fetched_at": "2026-05-22T08:29:17.310397"
+    },
+    "videos": [
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "title": "Falling ladders - why does this happen?",
+        "view_count": 51817330,
+        "like_count": 1446296,
+        "comment_count": 48957,
+        "engagement_rate_percent": 2.79,
+        "fetched_at": "2026-05-22T08:29:17.859857"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "ORxKf1FN3ro",
+        "title": "The real science of black holes",
+        "view_count": 32493498,
+        "like_count": 0,
+        "comment_count": 16581,
+        "engagement_rate_percent": 0.0,
+        "fetched_at": "2026-05-22T08:29:17.859874"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "uDeQB9OkoXY",
+        "title": "World's Roundest Object",
+        "view_count": 26124284,
+        "like_count": 880783,
+        "comment_count": 9940,
+        "engagement_rate_percent": 3.37,
+        "fetched_at": "2026-05-22T08:29:17.859867"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "2GUah9xHVto",
+        "title": "Can something go faster than it\u2019s pushed?",
+        "view_count": 8422964,
+        "like_count": 204721,
+        "comment_count": 4161,
+        "engagement_rate_percent": 2.43,
+        "fetched_at": "2026-05-22T08:29:17.859853"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "WKvAsz3RoRE",
+        "title": "This phone trick is IMPOSSIBLE",
+        "view_count": 7447438,
+        "like_count": 198807,
+        "comment_count": 5853,
+        "engagement_rate_percent": 2.67,
+        "fetched_at": "2026-05-22T08:29:17.859870"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "DJ_5_JS9_Rs",
+        "title": "You Can't Feel Wet",
+        "view_count": 5720442,
+        "like_count": 215360,
+        "comment_count": 2212,
+        "engagement_rate_percent": 3.76,
+        "fetched_at": "2026-05-22T08:29:17.859837"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "MVFd0qFB9TE",
+        "title": "Why don't trains make *that* sound anymore?",
+        "view_count": 4723805,
+        "like_count": 144131,
+        "comment_count": 1749,
+        "engagement_rate_percent": 3.05,
+        "fetched_at": "2026-05-22T08:29:17.859860"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "zP5uhMpH4mE",
+        "title": "How Pressure Can Come From *Nothing*",
+        "view_count": 4616717,
+        "like_count": 130805,
+        "comment_count": 1804,
+        "engagement_rate_percent": 2.83,
+        "fetched_at": "2026-05-22T08:29:17.859878"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "R8oiho_gKSo",
+        "title": "The Shadow Illusion",
+        "view_count": 3642342,
+        "like_count": 117466,
+        "comment_count": 1662,
+        "engagement_rate_percent": 3.23,
+        "fetched_at": "2026-05-22T08:29:17.859849"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "iRach9lpIlg",
+        "title": "Wombats Poop Cubes",
+        "view_count": 1092497,
+        "like_count": 21428,
+        "comment_count": 549,
+        "engagement_rate_percent": 1.96,
+        "fetched_at": "2026-05-22T08:29:17.859864"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "author": "@cicalinarrot",
+        "text": "Plot twist: he has no idea why that happened and he&#39;s genuinely asking, hoping that someone tells him in the comment.",
+        "likes": 494092,
+        "fetched_at": "2026-05-22T08:29:18.318391"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "author": "@diray3474",
+        "text": "- defies physics<br>-refuses to elaborate<br>-disappears into the void",
+        "likes": 18134,
+        "fetched_at": "2026-05-22T08:29:18.318403"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "author": "@heftylad",
+        "text": "For those wondering, you see how the rods are alternating diagonal? When the downward part of the bottom rod hits the table, it bounces up, pulling the other side of the rod, and therefore that rope, downwards. Rinse and repeat with every rod, all pulling slightly downwards on the ladder, and now it&#39;s falling faster than the other.",
+        "likes": 32845,
+        "fetched_at": "2026-05-22T08:29:18.318407"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "author": "@DoDone-l7c",
+        "text": "The angle causes the downward pull of each subsequent bar. When it hits the table the excess energy is used as leverage. <br>Didn&#39;t know this was old.",
+        "likes": 461,
+        "fetched_at": "2026-05-22T08:29:18.318410"
+      },
+      {
+        "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "video_id": "n8WxkqMRgS4",
+        "author": "@jeffstarkmann8468",
+        "text": "&quot;Alright, then. Keep your secrets&quot;",
+        "likes": 10930,
+        "fetched_at": "2026-05-22T08:29:18.318412"
+      }
+    ],
+    "cached_at": "2026-05-22T08:29:18.318802"
+  },
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 123795939341,
+      "total_subscribers": 489000000,
+      "total_videos": 981,
+      "fetched_at": "2026-05-22T11:05:38.734781"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728182706,
+        "like_count": 26553145,
+        "comment_count": 44234,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-22T11:05:39.277649"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 709717767,
+        "like_count": 26972354,
+        "comment_count": 36158,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-22T11:05:39.277607"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "VEGq2Du_HCw",
+        "title": "Subscribe for $10,000",
+        "view_count": 584599151,
+        "like_count": 3524108,
+        "comment_count": 56499,
+        "engagement_rate_percent": 0.6,
+        "fetched_at": "2026-05-22T11:05:39.277690"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 541927830,
+        "like_count": 8102792,
+        "comment_count": 10867,
+        "engagement_rate_percent": 1.5,
+        "fetched_at": "2026-05-22T11:05:39.277658"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460352687,
+        "like_count": 16817712,
+        "comment_count": 26564,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-22T11:05:39.277637"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "c0v8OPItCOg",
+        "title": "$100,000,000 Bathroom",
+        "view_count": 377095635,
+        "like_count": 12810269,
+        "comment_count": 23632,
+        "engagement_rate_percent": 3.4,
+        "fetched_at": "2026-05-22T11:05:39.277705"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353312568,
+        "like_count": 8256530,
+        "comment_count": 11299,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-22T11:05:39.277674"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "R_BmT1OJw98",
+        "title": "Every YouTube Play Button I Have",
+        "view_count": 320328427,
+        "like_count": 4184438,
+        "comment_count": 23857,
+        "engagement_rate_percent": 1.31,
+        "fetched_at": "2026-05-22T11:05:39.277682"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 133699093,
+        "like_count": 3218632,
+        "comment_count": 11686,
+        "engagement_rate_percent": 2.41,
+        "fetched_at": "2026-05-22T11:05:39.277697"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110513244,
+        "like_count": 2582572,
+        "comment_count": 14415,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-22T11:05:39.277666"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225744,
+        "fetched_at": "2026-05-22T11:05:39.624103"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258733,
+        "fetched_at": "2026-05-22T11:05:39.624117"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@RyzZzgamingLive",
+        "text": "World&#39;s fastest cleaner \u274c World&#39;s slowest door unlocker \u2705",
+        "likes": 13681,
+        "fetched_at": "2026-05-22T11:05:39.624122"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Saymka22",
+        "text": "A super fast Cleaner",
+        "likes": 1,
+        "fetched_at": "2026-05-22T11:05:39.624126"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@dnsvls",
+        "text": "That weird feeling of finding out that your favorite characters exist in the same universe \ud83d\ude02",
+        "likes": 3859,
+        "fetched_at": "2026-05-22T11:05:39.624129"
+      }
+    ],
+    "cached_at": "2026-05-22T11:05:39.625411"
+  },
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 124498104006,
+      "total_subscribers": 490000000,
+      "total_videos": 982,
+      "fetched_at": "2026-05-25T09:46:18.954848"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728324289,
+        "like_count": 26553142,
+        "comment_count": 44241,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T09:46:19.459887"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 710445345,
+        "like_count": 26978331,
+        "comment_count": 36181,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-25T09:46:19.459902"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 544274832,
+        "like_count": 8117601,
+        "comment_count": 10921,
+        "engagement_rate_percent": 1.49,
+        "fetched_at": "2026-05-25T09:46:19.459850"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460660484,
+        "like_count": 16819432,
+        "comment_count": 26578,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T09:46:19.459812"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353677038,
+        "like_count": 8259069,
+        "comment_count": 11321,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T09:46:19.459871"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "QAkEMtJpq3c",
+        "title": "Hit The Button, Win $1,000",
+        "view_count": 341925638,
+        "like_count": 2133427,
+        "comment_count": 60639,
+        "engagement_rate_percent": 0.62,
+        "fetched_at": "2026-05-25T09:46:19.459909"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "R_BmT1OJw98",
+        "title": "Every YouTube Play Button I Have",
+        "view_count": 335220228,
+        "like_count": 4272336,
+        "comment_count": 24138,
+        "engagement_rate_percent": 1.27,
+        "fetched_at": "2026-05-25T09:46:19.459880"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 134839285,
+        "like_count": 3234911,
+        "comment_count": 11765,
+        "engagement_rate_percent": 2.4,
+        "fetched_at": "2026-05-25T09:46:19.459895"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110633718,
+        "like_count": 2584187,
+        "comment_count": 14437,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T09:46:19.459862"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "dqpCvSU-ECE",
+        "title": "If This Goes In You Have To Subscribe",
+        "view_count": 73516218,
+        "like_count": 741511,
+        "comment_count": 13935,
+        "engagement_rate_percent": 1.01,
+        "fetched_at": "2026-05-25T09:46:19.459917"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225760,
+        "fetched_at": "2026-05-25T09:46:19.790818"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258747,
+        "fetched_at": "2026-05-25T09:46:19.790837"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Jin-d6p",
+        "text": "the unexpected collab we didn&#39;t know we needed",
+        "likes": 2624,
+        "fetched_at": "2026-05-25T09:46:19.790842"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MAHMUD-x975m",
+        "text": "They didn&#39;t return the mattress",
+        "likes": 109,
+        "fetched_at": "2026-05-25T09:46:19.790845"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@FirePhoenix0935",
+        "text": "Not just the worlds fastest workers but the \u201cWorlds best collab\u201d",
+        "likes": 9078,
+        "fetched_at": "2026-05-25T09:46:19.790849"
+      }
+    ],
+    "cached_at": "2026-05-25T09:46:19.791672"
+  },
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 124498104006,
+      "total_subscribers": 490000000,
+      "total_videos": 982,
+      "fetched_at": "2026-05-25T09:46:35.067769"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728324289,
+        "like_count": 26553142,
+        "comment_count": 44241,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T09:46:35.647487"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 710445345,
+        "like_count": 26978334,
+        "comment_count": 36181,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-25T09:46:35.647494"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 544274832,
+        "like_count": 8117603,
+        "comment_count": 10921,
+        "engagement_rate_percent": 1.49,
+        "fetched_at": "2026-05-25T09:46:35.647472"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460660484,
+        "like_count": 16819432,
+        "comment_count": 26578,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T09:46:35.647451"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353677038,
+        "like_count": 8259069,
+        "comment_count": 11321,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T09:46:35.647480"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "QAkEMtJpq3c",
+        "title": "Hit The Button, Win $1,000",
+        "view_count": 341925638,
+        "like_count": 2133435,
+        "comment_count": 60640,
+        "engagement_rate_percent": 0.62,
+        "fetched_at": "2026-05-25T09:46:35.647497"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "R_BmT1OJw98",
+        "title": "Every YouTube Play Button I Have",
+        "view_count": 335220228,
+        "like_count": 4272339,
+        "comment_count": 24138,
+        "engagement_rate_percent": 1.27,
+        "fetched_at": "2026-05-25T09:46:35.647483"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 134839285,
+        "like_count": 3234913,
+        "comment_count": 11765,
+        "engagement_rate_percent": 2.4,
+        "fetched_at": "2026-05-25T09:46:35.647490"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110633718,
+        "like_count": 2584187,
+        "comment_count": 14437,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T09:46:35.647476"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "dqpCvSU-ECE",
+        "title": "If This Goes In You Have To Subscribe",
+        "view_count": 73516218,
+        "like_count": 741528,
+        "comment_count": 13935,
+        "engagement_rate_percent": 1.01,
+        "fetched_at": "2026-05-25T09:46:35.647500"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225760,
+        "fetched_at": "2026-05-25T09:46:36.011820"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258747,
+        "fetched_at": "2026-05-25T09:46:36.011831"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Jin-d6p",
+        "text": "the unexpected collab we didn&#39;t know we needed",
+        "likes": 2624,
+        "fetched_at": "2026-05-25T09:46:36.011835"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MAHMUD-x975m",
+        "text": "They didn&#39;t return the mattress",
+        "likes": 109,
+        "fetched_at": "2026-05-25T09:46:36.011838"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@FirePhoenix0935",
+        "text": "Not just the worlds fastest workers but the \u201cWorlds best collab\u201d",
+        "likes": 9078,
+        "fetched_at": "2026-05-25T09:46:36.011842"
+      }
+    ],
+    "cached_at": "2026-05-25T09:46:37.579390"
+  },
+  {
+    "channel": {
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_name": "Fireship",
+      "total_views": 702158583,
+      "total_subscribers": 4200000,
+      "total_videos": 811,
+      "fetched_at": "2026-05-25T09:46:36.677442"
+    },
+    "videos": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "title": "C++ in 100 Seconds",
+        "view_count": 2568756,
+        "like_count": 89834,
+        "comment_count": 2085,
+        "engagement_rate_percent": 3.5,
+        "fetched_at": "2026-05-25T09:46:37.207987"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5C_HPTJg5ek",
+        "title": "Rust in 100 Seconds",
+        "view_count": 2418857,
+        "like_count": 83499,
+        "comment_count": 1590,
+        "engagement_rate_percent": 3.45,
+        "fetched_at": "2026-05-25T09:46:37.207980"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "UA7NSpzG98s",
+        "title": "client got faded, I got paid",
+        "view_count": 1851917,
+        "like_count": 115054,
+        "comment_count": 1396,
+        "engagement_rate_percent": 6.21,
+        "fetched_at": "2026-05-25T09:46:37.207976"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "scEDHsr3APg",
+        "title": "DevOps CI/CD Explained in 100 Seconds",
+        "view_count": 1758613,
+        "like_count": 62716,
+        "comment_count": 401,
+        "engagement_rate_percent": 3.57,
+        "fetched_at": "2026-05-25T09:46:37.207969"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "gGWQfV1FCis",
+        "title": "real HTML programmers debug in 3D",
+        "view_count": 1657290,
+        "like_count": 87885,
+        "comment_count": 1010,
+        "engagement_rate_percent": 5.3,
+        "fetched_at": "2026-05-25T09:46:37.207994"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "QKgTZWbwD1U",
+        "title": "Godot in 100 Seconds",
+        "view_count": 1643984,
+        "like_count": 75941,
+        "comment_count": 1776,
+        "engagement_rate_percent": 4.62,
+        "fetched_at": "2026-05-25T09:46:37.207991"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "eZ74x6dVYes",
+        "title": "Raspberry Pi Explained in 100 Seconds",
+        "view_count": 1497717,
+        "like_count": 63697,
+        "comment_count": 668,
+        "engagement_rate_percent": 4.25,
+        "fetched_at": "2026-05-25T09:46:37.207965"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "njdJeu95p6s",
+        "title": "Top 3 Ways to Center a DIV with CSS #Shorts",
+        "view_count": 1481275,
+        "like_count": 102556,
+        "comment_count": 831,
+        "engagement_rate_percent": 6.92,
+        "fetched_at": "2026-05-25T09:46:37.207973"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "zBZgdTb-dns",
+        "title": "Supabase in 100 Seconds",
+        "view_count": 918807,
+        "like_count": 28233,
+        "comment_count": 458,
+        "engagement_rate_percent": 3.07,
+        "fetched_at": "2026-05-25T09:46:37.207983"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5_t_I_4OuwQ",
+        "title": "get a grip on grep",
+        "view_count": 503708,
+        "like_count": 31887,
+        "comment_count": 224,
+        "engagement_rate_percent": 6.33,
+        "fetched_at": "2026-05-25T09:46:37.207954"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@ShortHax",
+        "text": "C++ is like Lego. You can assemble the castle of your dreams, or you can scream in pain as you step on the pieces scattered on the floor",
+        "likes": 26710,
+        "fetched_at": "2026-05-25T09:46:37.578106"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@helpfulprogrammer",
+        "text": "In C++ we don&#39;t say &quot;Missing asterisk&quot; we say &quot;error C2664: &#39;void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)&#39;: cannot convert argument 1 from &#39;std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;&#39; to &#39;block &amp;&amp;&#39;&quot;",
+        "likes": 14405,
+        "fetched_at": "2026-05-25T09:46:37.578111"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@jomy10-games",
+        "text": "\u201cWe can get rid of this STD though\u201d<br><b>listens carefully</b>",
+        "likes": 3179,
+        "fetched_at": "2026-05-25T09:46:37.578115"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@alin1179",
+        "text": "Alright, I&#39;m going to add C++ to my cv",
+        "likes": 633,
+        "fetched_at": "2026-05-25T09:46:37.578118"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@AnoNymous-dh2sv",
+        "text": "C++ of 2022, is EXTREMELY different to C++ of 20+ years ago. Now it has extremely high level libraries on the DEFAULT spec so you can do things that any extremely high level language like python did by default (like text parsing) and I think if it had those features from the start dozens of popular languages would not even EXIST.",
+        "likes": 660,
+        "fetched_at": "2026-05-25T09:46:37.578120"
+      }
+    ],
+    "cached_at": "2026-05-25T09:46:37.580868"
+  },
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 124498104006,
+      "total_subscribers": 490000000,
+      "total_videos": 982,
+      "fetched_at": "2026-05-25T10:05:58.000229"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728325400,
+        "like_count": 26553147,
+        "comment_count": 44241,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T10:05:58.621738"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 710450436,
+        "like_count": 26978406,
+        "comment_count": 36181,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-25T10:05:58.621744"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 544291013,
+        "like_count": 8117660,
+        "comment_count": 10921,
+        "engagement_rate_percent": 1.49,
+        "fetched_at": "2026-05-25T10:05:58.621721"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460660967,
+        "like_count": 16819436,
+        "comment_count": 26578,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T10:05:58.621705"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353679669,
+        "like_count": 8259084,
+        "comment_count": 11322,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T10:05:58.621731"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "QAkEMtJpq3c",
+        "title": "Hit The Button, Win $1,000",
+        "view_count": 342249667,
+        "like_count": 2134963,
+        "comment_count": 60666,
+        "engagement_rate_percent": 0.62,
+        "fetched_at": "2026-05-25T10:05:58.621747"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "R_BmT1OJw98",
+        "title": "Every YouTube Play Button I Have",
+        "view_count": 335379041,
+        "like_count": 4272970,
+        "comment_count": 24143,
+        "engagement_rate_percent": 1.27,
+        "fetched_at": "2026-05-25T10:05:58.621734"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 134848676,
+        "like_count": 3235024,
+        "comment_count": 11766,
+        "engagement_rate_percent": 2.4,
+        "fetched_at": "2026-05-25T10:05:58.621741"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110634334,
+        "like_count": 2584194,
+        "comment_count": 14437,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T10:05:58.621727"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "dqpCvSU-ECE",
+        "title": "If This Goes In You Have To Subscribe",
+        "view_count": 73638141,
+        "like_count": 742457,
+        "comment_count": 13941,
+        "engagement_rate_percent": 1.01,
+        "fetched_at": "2026-05-25T10:05:58.621750"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225760,
+        "fetched_at": "2026-05-25T10:05:58.954976"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258747,
+        "fetched_at": "2026-05-25T10:05:58.954989"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Jin-d6p",
+        "text": "the unexpected collab we didn&#39;t know we needed",
+        "likes": 2624,
+        "fetched_at": "2026-05-25T10:05:58.954993"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MAHMUD-x975m",
+        "text": "They didn&#39;t return the mattress",
+        "likes": 109,
+        "fetched_at": "2026-05-25T10:05:58.954997"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@FirePhoenix0935",
+        "text": "Not just the worlds fastest workers but the \u201cWorlds best collab\u201d",
+        "likes": 9078,
+        "fetched_at": "2026-05-25T10:05:58.955000"
+      }
+    ],
+    "cached_at": "2026-05-25T10:06:00.444665"
+  },
+  {
+    "channel": {
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_name": "Fireship",
+      "total_views": 702158583,
+      "total_subscribers": 4200000,
+      "total_videos": 811,
+      "fetched_at": "2026-05-25T10:05:59.529496"
+    },
+    "videos": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "title": "C++ in 100 Seconds",
+        "view_count": 2568756,
+        "like_count": 89834,
+        "comment_count": 2085,
+        "engagement_rate_percent": 3.5,
+        "fetched_at": "2026-05-25T10:06:00.163952"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5C_HPTJg5ek",
+        "title": "Rust in 100 Seconds",
+        "view_count": 2418869,
+        "like_count": 83499,
+        "comment_count": 1589,
+        "engagement_rate_percent": 3.45,
+        "fetched_at": "2026-05-25T10:06:00.163946"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "UA7NSpzG98s",
+        "title": "client got faded, I got paid",
+        "view_count": 1851947,
+        "like_count": 115055,
+        "comment_count": 1396,
+        "engagement_rate_percent": 6.21,
+        "fetched_at": "2026-05-25T10:06:00.163943"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "scEDHsr3APg",
+        "title": "DevOps CI/CD Explained in 100 Seconds",
+        "view_count": 1758647,
+        "like_count": 62718,
+        "comment_count": 401,
+        "engagement_rate_percent": 3.57,
+        "fetched_at": "2026-05-25T10:06:00.163936"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "gGWQfV1FCis",
+        "title": "real HTML programmers debug in 3D",
+        "view_count": 1657319,
+        "like_count": 87884,
+        "comment_count": 1010,
+        "engagement_rate_percent": 5.3,
+        "fetched_at": "2026-05-25T10:06:00.163959"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "QKgTZWbwD1U",
+        "title": "Godot in 100 Seconds",
+        "view_count": 1644015,
+        "like_count": 75942,
+        "comment_count": 1776,
+        "engagement_rate_percent": 4.62,
+        "fetched_at": "2026-05-25T10:06:00.163955"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "eZ74x6dVYes",
+        "title": "Raspberry Pi Explained in 100 Seconds",
+        "view_count": 1497743,
+        "like_count": 63698,
+        "comment_count": 668,
+        "engagement_rate_percent": 4.25,
+        "fetched_at": "2026-05-25T10:06:00.163932"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "njdJeu95p6s",
+        "title": "Top 3 Ways to Center a DIV with CSS #Shorts",
+        "view_count": 1481275,
+        "like_count": 102556,
+        "comment_count": 831,
+        "engagement_rate_percent": 6.92,
+        "fetched_at": "2026-05-25T10:06:00.163939"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "zBZgdTb-dns",
+        "title": "Supabase in 100 Seconds",
+        "view_count": 918821,
+        "like_count": 28235,
+        "comment_count": 458,
+        "engagement_rate_percent": 3.07,
+        "fetched_at": "2026-05-25T10:06:00.163949"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "5_t_I_4OuwQ",
+        "title": "get a grip on grep",
+        "view_count": 503708,
+        "like_count": 31887,
+        "comment_count": 224,
+        "engagement_rate_percent": 6.33,
+        "fetched_at": "2026-05-25T10:06:00.163919"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@ShortHax",
+        "text": "C++ is like Lego. You can assemble the castle of your dreams, or you can scream in pain as you step on the pieces scattered on the floor",
+        "likes": 26711,
+        "fetched_at": "2026-05-25T10:06:00.443320"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@helpfulprogrammer",
+        "text": "In C++ we don&#39;t say &quot;Missing asterisk&quot; we say &quot;error C2664: &#39;void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)&#39;: cannot convert argument 1 from &#39;std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;&#39; to &#39;block &amp;&amp;&#39;&quot;",
+        "likes": 14406,
+        "fetched_at": "2026-05-25T10:06:00.443328"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@jomy10-games",
+        "text": "\u201cWe can get rid of this STD though\u201d<br><b>listens carefully</b>",
+        "likes": 3179,
+        "fetched_at": "2026-05-25T10:06:00.443332"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@alin1179",
+        "text": "Alright, I&#39;m going to add C++ to my cv",
+        "likes": 633,
+        "fetched_at": "2026-05-25T10:06:00.443335"
+      },
+      {
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "video_id": "MNeX4EGtR5Y",
+        "author": "@AnoNymous-dh2sv",
+        "text": "C++ of 2022, is EXTREMELY different to C++ of 20+ years ago. Now it has extremely high level libraries on the DEFAULT spec so you can do things that any extremely high level language like python did by default (like text parsing) and I think if it had those features from the start dozens of popular languages would not even EXIST.",
+        "likes": 660,
+        "fetched_at": "2026-05-25T10:06:00.443338"
+      }
+    ],
+    "cached_at": "2026-05-25T10:06:00.446644"
+  },
+  {
+    "channel": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channel_name": "MrBeast",
+      "total_views": 124498104006,
+      "total_subscribers": 490000000,
+      "total_videos": 982,
+      "fetched_at": "2026-05-25T10:09:04.763428"
+    },
+    "videos": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "title": "The World's Fastest Cleaners",
+        "view_count": 728325400,
+        "like_count": 26553148,
+        "comment_count": 44241,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T10:09:05.392347"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "IemzxkkzI5s",
+        "title": "I Tipped A Pizza Delivery Driver A Car",
+        "view_count": 710450436,
+        "like_count": 26978418,
+        "comment_count": 36181,
+        "engagement_rate_percent": 3.8,
+        "fetched_at": "2026-05-25T10:09:05.392316"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "nAiKLoCP-kU",
+        "title": "Reach the Money, Win $10,000",
+        "view_count": 544294667,
+        "like_count": 8117675,
+        "comment_count": 10921,
+        "engagement_rate_percent": 1.49,
+        "fetched_at": "2026-05-25T10:09:05.392354"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "ooAwCOP67GQ",
+        "title": "Do Pawnshops Scam You?",
+        "view_count": 460661069,
+        "like_count": 16819436,
+        "comment_count": 26578,
+        "engagement_rate_percent": 3.65,
+        "fetched_at": "2026-05-25T10:09:05.392339"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "c0v8OPItCOg",
+        "title": "$100,000,000 Bathroom",
+        "view_count": 377486008,
+        "like_count": 12813038,
+        "comment_count": 23649,
+        "engagement_rate_percent": 3.39,
+        "fetched_at": "2026-05-25T10:09:05.392333"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "8krJy31Diow",
+        "title": "Holding Bigger And Bigger Dogs",
+        "view_count": 353680480,
+        "like_count": 8259089,
+        "comment_count": 11323,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T10:09:05.392360"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "QAkEMtJpq3c",
+        "title": "Hit The Button, Win $1,000",
+        "view_count": 342378388,
+        "like_count": 2135211,
+        "comment_count": 60670,
+        "engagement_rate_percent": 0.62,
+        "fetched_at": "2026-05-25T10:09:05.392364"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "oiZvK6MY7tI",
+        "title": "Call Your Ex, Win $10,000",
+        "view_count": 134848676,
+        "like_count": 3235053,
+        "comment_count": 11767,
+        "engagement_rate_percent": 2.4,
+        "fetched_at": "2026-05-25T10:09:05.392344"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "V6In4tmd-w8",
+        "title": "$1 vs $25,000 VFX",
+        "view_count": 110634475,
+        "like_count": 2584195,
+        "comment_count": 14437,
+        "engagement_rate_percent": 2.34,
+        "fetched_at": "2026-05-25T10:09:05.392357"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "26QQE7EsnLA",
+        "title": "MrBeast Lab Disaster!",
+        "view_count": 37385214,
+        "like_count": 1389920,
+        "comment_count": 16660,
+        "engagement_rate_percent": 3.72,
+        "fetched_at": "2026-05-25T10:09:05.392351"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MrBeast",
+        "text": "They quick with it",
+        "likes": 225760,
+        "fetched_at": "2026-05-25T10:09:05.784754"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@NolanHansen",
+        "text": "Imma lock the door next time",
+        "likes": 258747,
+        "fetched_at": "2026-05-25T10:09:05.784779"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@Jin-d6p",
+        "text": "the unexpected collab we didn&#39;t know we needed",
+        "likes": 2624,
+        "fetched_at": "2026-05-25T10:09:05.784786"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@MAHMUD-x975m",
+        "text": "They didn&#39;t return the mattress",
+        "likes": 109,
+        "fetched_at": "2026-05-25T10:09:05.784791"
+      },
+      {
+        "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "video_id": "CWbV3NItSdY",
+        "author": "@FirePhoenix0935",
+        "text": "Not just the worlds fastest workers but the \u201cWorlds best collab\u201d",
+        "likes": 9078,
+        "fetched_at": "2026-05-25T10:09:05.784796"
+      }
+    ],
+    "cached_at": "2026-05-25T10:09:05.786577"
+  },
+  {
+    "channel": {
+      "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+      "channel_name": "Google India",
+      "total_views": 6619869849,
+      "total_subscribers": 8450000,
+      "total_videos": 1562,
+      "fetched_at": "2026-05-25T10:12:19.131965"
+    },
+    "videos": [
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "title": "Google app - Answers Made Easy - Cricket Score",
+        "view_count": 4581377,
+        "like_count": 583,
+        "comment_count": 53,
+        "engagement_rate_percent": 0.01,
+        "fetched_at": "2026-05-25T10:12:19.678734"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "IuXU989B2p8",
+        "title": "#PledgeToVote with Mr. Shyam Negi",
+        "view_count": 2956732,
+        "like_count": 6869,
+        "comment_count": 415,
+        "engagement_rate_percent": 0.23,
+        "fetched_at": "2026-05-25T10:12:19.678750"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "x0q0-insIOQ",
+        "title": "Google Pay | Start Pocket Money on Google Pay",
+        "view_count": 1717180,
+        "like_count": 2666,
+        "comment_count": 2,
+        "engagement_rate_percent": 0.16,
+        "fetched_at": "2026-05-25T10:12:19.678717"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "HceqUipe_Go",
+        "title": "Clocked to our screens for this. Meet #PixelWatch 2 on 5th Oct | Available exclusively @flipkart",
+        "view_count": 9540,
+        "like_count": 385,
+        "comment_count": 5,
+        "engagement_rate_percent": 4.04,
+        "fetched_at": "2026-05-25T10:12:19.678667"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "558_AS81U6A",
+        "title": "Brb, asking a friend to \u2018tu du ding\u2019 their dues \ud83e\udd2d",
+        "view_count": 7066,
+        "like_count": 218,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.09,
+        "fetched_at": "2026-05-25T10:12:19.678726"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "86oS4pdYQco",
+        "title": "POV: You understood the assignment with some help from AI Mode on Google Search.",
+        "view_count": 6289,
+        "like_count": 26,
+        "comment_count": 1,
+        "engagement_rate_percent": 0.41,
+        "fetched_at": "2026-05-25T10:12:19.678708"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "2_A09nUwaGA",
+        "title": "Starting 21st August, 2025, ask more of your phone.",
+        "view_count": 5892,
+        "like_count": 69,
+        "comment_count": 3,
+        "engagement_rate_percent": 1.17,
+        "fetched_at": "2026-05-25T10:12:19.678742"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "bSIcpqQRdc4",
+        "title": "This is the kind of colour coding on Sheets \u261d\ufe0f",
+        "view_count": 5198,
+        "like_count": 187,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.6,
+        "fetched_at": "2026-05-25T10:12:19.678696"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "NRf-ZI9-cRQ",
+        "title": "Watch until the end for a M3$$age \ud83e\udd2f\u2705",
+        "view_count": 2802,
+        "like_count": 101,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.6,
+        "fetched_at": "2026-05-25T10:12:19.678765"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "z7QMD9nSdg8",
+        "title": "Marching down memory lane #RepublicDay",
+        "view_count": 1931,
+        "like_count": 73,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.78,
+        "fetched_at": "2026-05-25T10:12:19.678758"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@pareshmokani",
+        "text": "Absolutely brilliant ad. However the girl recovers very well after being shocked to hear the rates of apples. LOL",
+        "likes": 10,
+        "fetched_at": "2026-05-25T10:12:19.931772"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@takeapause.9274",
+        "text": "my reaction was the same as the lady when i first saw this ad on \ud83d\udcfa tv \ud83d\ude02",
+        "likes": 6,
+        "fetched_at": "2026-05-25T10:12:19.931787"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@vikrantabhishek",
+        "text": "i knew about this feature even before watching this ad",
+        "likes": 2,
+        "fetched_at": "2026-05-25T10:12:19.931791"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@mdghouse5923",
+        "text": "superb ad, credit to the concept head and for the lead lady.",
+        "likes": 1,
+        "fetched_at": "2026-05-25T10:12:19.931795"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@mohammadismail3128",
+        "text": "its tooooooo goooood. . .bt never expected even gooogle can  provide its own advertisement",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:12:19.931798"
+      }
+    ],
+    "cached_at": "2026-05-25T10:12:19.933755"
+  },
+  {
+    "channel": {
+      "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+      "channel_name": "IOMETE",
+      "total_views": 4727,
+      "total_subscribers": 270,
+      "total_videos": 15,
+      "fetched_at": "2026-05-25T10:12:24.886089"
+    },
+    "videos": [
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "3qKq7KCBKAQ",
+        "title": "Arrow Flight SQL",
+        "view_count": 556,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.54,
+        "fetched_at": "2026-05-25T10:12:25.518237"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "zhNsV7k4xXE",
+        "title": "JDBC connections | IOMETE",
+        "view_count": 406,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.49,
+        "fetched_at": "2026-05-25T10:12:25.518280"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "xJERkJbqzPg",
+        "title": "Data security access control & masking IOMETE",
+        "view_count": 357,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.56,
+        "fetched_at": "2026-05-25T10:12:25.518311"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "PuOaIITwvPc",
+        "title": "compute cluster IOMETE guide",
+        "view_count": 261,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 1.15,
+        "fetched_at": "2026-05-25T10:12:25.518286"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "F8lwJvwB7zo",
+        "title": "IOMETE 2025 Product Recap",
+        "view_count": 249,
+        "like_count": 15,
+        "comment_count": 0,
+        "engagement_rate_percent": 6.02,
+        "fetched_at": "2026-05-25T10:12:25.518293"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "mJpovXfZRGE",
+        "title": "Git integration IOMETE SQL Editor",
+        "view_count": 231,
+        "like_count": 9,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.9,
+        "fetched_at": "2026-05-25T10:12:25.518317"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "LdxLKu6MeVE",
+        "title": "Hive Thrift to Apache Arrow 10x BI connectivity",
+        "view_count": 186,
+        "like_count": 7,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.76,
+        "fetched_at": "2026-05-25T10:12:25.518299"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "uxYKdGd8AgE",
+        "title": "Better SQL, Better Jupyter: How IOMETE Improved Developer Experience in 2025",
+        "view_count": 142,
+        "like_count": 5,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.52,
+        "fetched_at": "2026-05-25T10:12:25.518272"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "XsRduyMxYis",
+        "title": "Hide sensitive data in Spark Jobs",
+        "view_count": 111,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 2.7,
+        "fetched_at": "2026-05-25T10:12:25.518263"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "kSGzV-Uw8No",
+        "title": "OpenMetadata integration with IOMETE",
+        "view_count": 53,
+        "like_count": 4,
+        "comment_count": 0,
+        "engagement_rate_percent": 7.55,
+        "fetched_at": "2026-05-25T10:12:25.518306"
+      }
+    ],
+    "comments": [],
+    "cached_at": "2026-05-25T10:12:25.649323"
+  },
+  {
+    "channel": {
+      "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+      "channel_name": "IOMETE",
+      "total_views": 4727,
+      "total_subscribers": 270,
+      "total_videos": 15,
+      "fetched_at": "2026-05-25T10:13:31.739037"
+    },
+    "videos": [
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "3qKq7KCBKAQ",
+        "title": "Arrow Flight SQL",
+        "view_count": 556,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.54,
+        "fetched_at": "2026-05-25T10:13:32.232298"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "zhNsV7k4xXE",
+        "title": "JDBC connections | IOMETE",
+        "view_count": 406,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.49,
+        "fetched_at": "2026-05-25T10:13:32.232320"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "xJERkJbqzPg",
+        "title": "Data security access control & masking IOMETE",
+        "view_count": 357,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.56,
+        "fetched_at": "2026-05-25T10:13:32.232338"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "PuOaIITwvPc",
+        "title": "compute cluster IOMETE guide",
+        "view_count": 261,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 1.15,
+        "fetched_at": "2026-05-25T10:13:32.232323"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "F8lwJvwB7zo",
+        "title": "IOMETE 2025 Product Recap",
+        "view_count": 249,
+        "like_count": 15,
+        "comment_count": 0,
+        "engagement_rate_percent": 6.02,
+        "fetched_at": "2026-05-25T10:13:32.232327"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "mJpovXfZRGE",
+        "title": "Git integration IOMETE SQL Editor",
+        "view_count": 231,
+        "like_count": 9,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.9,
+        "fetched_at": "2026-05-25T10:13:32.232342"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "LdxLKu6MeVE",
+        "title": "Hive Thrift to Apache Arrow 10x BI connectivity",
+        "view_count": 186,
+        "like_count": 7,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.76,
+        "fetched_at": "2026-05-25T10:13:32.232331"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "uxYKdGd8AgE",
+        "title": "Better SQL, Better Jupyter: How IOMETE Improved Developer Experience in 2025",
+        "view_count": 142,
+        "like_count": 5,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.52,
+        "fetched_at": "2026-05-25T10:13:32.232316"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "XsRduyMxYis",
+        "title": "Hide sensitive data in Spark Jobs",
+        "view_count": 111,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 2.7,
+        "fetched_at": "2026-05-25T10:13:32.232312"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "kSGzV-Uw8No",
+        "title": "OpenMetadata integration with IOMETE",
+        "view_count": 53,
+        "like_count": 4,
+        "comment_count": 0,
+        "engagement_rate_percent": 7.55,
+        "fetched_at": "2026-05-25T10:13:32.232335"
+      }
+    ],
+    "comments": [],
+    "cached_at": "2026-05-25T10:13:33.950506"
+  },
+  {
+    "channel": {
+      "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+      "channel_name": "Ton Khwairakpam",
+      "total_views": 369381,
+      "total_subscribers": 4650,
+      "total_videos": 91,
+      "fetched_at": "2026-05-25T10:13:33.074405"
+    },
+    "videos": [
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "title": "\u2764\ufe0f",
+        "view_count": 7049,
+        "like_count": 282,
+        "comment_count": 12,
+        "engagement_rate_percent": 4.0,
+        "fetched_at": "2026-05-25T10:13:33.705121"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "LJhcwlS11ps",
+        "title": "Koikaknabi samlang||Dance cover video",
+        "view_count": 5459,
+        "like_count": 136,
+        "comment_count": 12,
+        "engagement_rate_percent": 2.49,
+        "fetched_at": "2026-05-25T10:13:33.705146"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "8V1LlntUHgs",
+        "title": "Mityengdo machin tumalli",
+        "view_count": 3651,
+        "like_count": 284,
+        "comment_count": 22,
+        "engagement_rate_percent": 7.78,
+        "fetched_at": "2026-05-25T10:13:33.705125"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "qLWvzjK6NwA",
+        "title": "Mou khatnabi||part 2||",
+        "view_count": 2935,
+        "like_count": 172,
+        "comment_count": 7,
+        "engagement_rate_percent": 5.86,
+        "fetched_at": "2026-05-25T10:13:33.705133"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "tQP47a2M-IY",
+        "title": "Mou khatnabi\ud83d\ude06||",
+        "view_count": 2679,
+        "like_count": 117,
+        "comment_count": 7,
+        "engagement_rate_percent": 4.37,
+        "fetched_at": "2026-05-25T10:13:33.705140"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "dBR2YuPBWoo",
+        "title": "acting macha ama\ud83e\udd2d",
+        "view_count": 1807,
+        "like_count": 108,
+        "comment_count": 10,
+        "engagement_rate_percent": 5.98,
+        "fetched_at": "2026-05-25T10:13:33.705143"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "5HvbI0NaRF0",
+        "title": "Eidi chei yam ki huh",
+        "view_count": 1679,
+        "like_count": 74,
+        "comment_count": 4,
+        "engagement_rate_percent": 4.41,
+        "fetched_at": "2026-05-25T10:13:33.705129"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "jqhu1qm0lWE",
+        "title": "yaoshang vibes\ud83c\udf08",
+        "view_count": 1452,
+        "like_count": 55,
+        "comment_count": 3,
+        "engagement_rate_percent": 3.79,
+        "fetched_at": "2026-05-25T10:13:33.705107"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "T8ysDAMxkgo",
+        "title": "\ud83e\udef6",
+        "view_count": 1316,
+        "like_count": 95,
+        "comment_count": 2,
+        "engagement_rate_percent": 7.22,
+        "fetched_at": "2026-05-25T10:13:33.705150"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "O-0OMS4ICqU",
+        "title": "3 August 2025",
+        "view_count": 414,
+        "like_count": 28,
+        "comment_count": 7,
+        "engagement_rate_percent": 6.76,
+        "fetched_at": "2026-05-25T10:13:33.705136"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "author": "@SinghaRock-f2u",
+        "text": "Waw\u2764\u2764\u2764\u2764",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:33.949974"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "author": "@ThoithoiPhuritshabam",
+        "text": "Ymm fajei ko \u2764\u2764\ud83d\ude0a\ud83d\ude0a",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:33.949983"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "author": "@AshokThokchom-ik4gp",
+        "text": "Akhoi romda oina leirasi ba ngaore ei",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:33.949987"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "author": "@cthoikhuman5607",
+        "text": "Khufajasee \u2764\u2764\u2764",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:33.949990"
+      },
+      {
+        "channel_id": "UCI-R6ryUtS1hT8sFpk-K_Yw",
+        "video_id": "HpBGVIZA9B8",
+        "author": "@MuhiniMuhinising",
+        "text": "Nice",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:33.949993"
+      }
+    ],
+    "cached_at": "2026-05-25T10:13:33.954067"
+  },
+  {
+    "channel": {
+      "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+      "channel_name": "IOMETE",
+      "total_views": 4727,
+      "total_subscribers": 270,
+      "total_videos": 15,
+      "fetched_at": "2026-05-25T10:13:40.117953"
+    },
+    "videos": [
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "3qKq7KCBKAQ",
+        "title": "Arrow Flight SQL",
+        "view_count": 556,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.54,
+        "fetched_at": "2026-05-25T10:13:40.624064"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "zhNsV7k4xXE",
+        "title": "JDBC connections | IOMETE",
+        "view_count": 406,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.49,
+        "fetched_at": "2026-05-25T10:13:40.624087"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "xJERkJbqzPg",
+        "title": "Data security access control & masking IOMETE",
+        "view_count": 357,
+        "like_count": 2,
+        "comment_count": 0,
+        "engagement_rate_percent": 0.56,
+        "fetched_at": "2026-05-25T10:13:40.624104"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "PuOaIITwvPc",
+        "title": "compute cluster IOMETE guide",
+        "view_count": 261,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 1.15,
+        "fetched_at": "2026-05-25T10:13:40.624091"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "F8lwJvwB7zo",
+        "title": "IOMETE 2025 Product Recap",
+        "view_count": 249,
+        "like_count": 15,
+        "comment_count": 0,
+        "engagement_rate_percent": 6.02,
+        "fetched_at": "2026-05-25T10:13:40.624094"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "mJpovXfZRGE",
+        "title": "Git integration IOMETE SQL Editor",
+        "view_count": 231,
+        "like_count": 9,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.9,
+        "fetched_at": "2026-05-25T10:13:40.624107"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "LdxLKu6MeVE",
+        "title": "Hive Thrift to Apache Arrow 10x BI connectivity",
+        "view_count": 186,
+        "like_count": 7,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.76,
+        "fetched_at": "2026-05-25T10:13:40.624097"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "uxYKdGd8AgE",
+        "title": "Better SQL, Better Jupyter: How IOMETE Improved Developer Experience in 2025",
+        "view_count": 142,
+        "like_count": 5,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.52,
+        "fetched_at": "2026-05-25T10:13:40.624084"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "XsRduyMxYis",
+        "title": "Hide sensitive data in Spark Jobs",
+        "view_count": 111,
+        "like_count": 3,
+        "comment_count": 0,
+        "engagement_rate_percent": 2.7,
+        "fetched_at": "2026-05-25T10:13:40.624079"
+      },
+      {
+        "channel_id": "UCWviqGuFppqdHvhhAdMTgkg",
+        "video_id": "kSGzV-Uw8No",
+        "title": "OpenMetadata integration with IOMETE",
+        "view_count": 53,
+        "like_count": 4,
+        "comment_count": 0,
+        "engagement_rate_percent": 7.55,
+        "fetched_at": "2026-05-25T10:13:40.624101"
+      }
+    ],
+    "comments": [],
+    "cached_at": "2026-05-25T10:13:42.403660"
+  },
+  {
+    "channel": {
+      "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+      "channel_name": "TON",
+      "total_views": 30183508,
+      "total_subscribers": 613000,
+      "total_videos": 498,
+      "fetched_at": "2026-05-25T10:13:41.451323"
+    },
+    "videos": [
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "title": "Crypto Chats Podcast #1 | GAMEE: Give users ownership. Get 5x more users.",
+        "view_count": 159519,
+        "like_count": 17027,
+        "comment_count": 643,
+        "engagement_rate_percent": 10.67,
+        "fetched_at": "2026-05-25T10:13:42.096103"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "3pZRK6w9V00",
+        "title": "How to Secure Your Crypto in 2025: Top Crypto Scams to Avoid | TON Learn #34",
+        "view_count": 26384,
+        "like_count": 2968,
+        "comment_count": 112,
+        "engagement_rate_percent": 11.25,
+        "fetched_at": "2026-05-25T10:13:42.096128"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "AP_X8ff7XCg",
+        "title": "Blockchain Innovation and Financial Efficiency: Insights from Anthony Scaramucci",
+        "view_count": 3144,
+        "like_count": 44,
+        "comment_count": 4,
+        "engagement_rate_percent": 1.4,
+        "fetched_at": "2026-05-25T10:13:42.096115"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "hQV8barUFos",
+        "title": "Build on TON and Reach Millions | TON",
+        "view_count": 2953,
+        "like_count": 107,
+        "comment_count": 3,
+        "engagement_rate_percent": 3.62,
+        "fetched_at": "2026-05-25T10:13:42.096120"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "mTsaONGrG6s",
+        "title": "How to Send Crypto to an External Wallet!",
+        "view_count": 2071,
+        "like_count": 23,
+        "comment_count": 4,
+        "engagement_rate_percent": 1.11,
+        "fetched_at": "2026-05-25T10:13:42.096124"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "m7SrPcxfUlo",
+        "title": "USDT on TON: The Fastest-Growing Blockchain Revolution! \ud83d\ude80 #CryptoNews #USDT #Blockchain",
+        "view_count": 599,
+        "like_count": 31,
+        "comment_count": 1,
+        "engagement_rate_percent": 5.18,
+        "fetched_at": "2026-05-25T10:13:42.096139"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "-qBvvoYyKi0",
+        "title": "Ton Foundation launches $500M Telegram RWA bond fund with Libre",
+        "view_count": 582,
+        "like_count": 7,
+        "comment_count": 1,
+        "engagement_rate_percent": 1.2,
+        "fetched_at": "2026-05-25T10:13:42.096131"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "GoVGeF3ZuD8",
+        "title": "How Oobit works?",
+        "view_count": 531,
+        "like_count": 19,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.58,
+        "fetched_at": "2026-05-25T10:13:42.096135"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "or03qilbER4",
+        "title": "Save your money on #TON and #Telegram",
+        "view_count": 465,
+        "like_count": 53,
+        "comment_count": 1,
+        "engagement_rate_percent": 11.4,
+        "fetched_at": "2026-05-25T10:13:42.096145"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "LJ7MCEKmplY",
+        "title": "Unlock the Secret: How Tap to Earn Apps Fuel Explosive Growth in TON Utility Apps! \ud83d\ude80 #TON #Growth",
+        "view_count": 425,
+        "like_count": 25,
+        "comment_count": 1,
+        "engagement_rate_percent": 5.88,
+        "fetched_at": "2026-05-25T10:13:42.096142"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@unreleasedworld7010",
+        "text": "best project",
+        "likes": 3,
+        "fetched_at": "2026-05-25T10:13:42.402029"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@BekmurodUz",
+        "text": "Omad hamaga\u2764\u2764\u2764\u2764",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:42.402040"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@nogoumrecords4791",
+        "text": "\u0628\u0627\u0644\u062a\u0648\u0641\u064a\u0642 \ud83c\udf89\ud83c\udf89",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:42.402044"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@KeepGemWallet_Official",
+        "text": "Giving users ownership is a fascinating approach to drive engagement. It not only aligns incentives but also creates a deeper connection between the user and the platform. The real challenge will be ensuring that this model scales without compromising the user experience. How do you plan to address the potential complexities of managing decentralized ownership as the platform grows?",
+        "likes": 34,
+        "fetched_at": "2026-05-25T10:13:42.402047"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@javeedahmadrather1357",
+        "text": "Vote for listening \u2764\ufe0f",
+        "likes": 0,
+        "fetched_at": "2026-05-25T10:13:42.402050"
+      }
+    ],
+    "cached_at": "2026-05-25T10:13:42.406747"
+  },
+  {
+    "channel": {
+      "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+      "channel_name": "Google India",
+      "total_views": 6619869849,
+      "total_subscribers": 8450000,
+      "total_videos": 1562,
+      "fetched_at": "2026-05-25T11:05:23.195125"
+    },
+    "videos": [
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "title": "Google app - Answers Made Easy - Cricket Score",
+        "view_count": 4581377,
+        "like_count": 583,
+        "comment_count": 53,
+        "engagement_rate_percent": 0.01,
+        "fetched_at": "2026-05-25T11:05:23.709337"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "IuXU989B2p8",
+        "title": "#PledgeToVote with Mr. Shyam Negi",
+        "view_count": 2956732,
+        "like_count": 6869,
+        "comment_count": 415,
+        "engagement_rate_percent": 0.23,
+        "fetched_at": "2026-05-25T11:05:23.709344"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "x0q0-insIOQ",
+        "title": "Google Pay | Start Pocket Money on Google Pay",
+        "view_count": 1717212,
+        "like_count": 2666,
+        "comment_count": 2,
+        "engagement_rate_percent": 0.16,
+        "fetched_at": "2026-05-25T11:05:23.709328"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "HceqUipe_Go",
+        "title": "Clocked to our screens for this. Meet #PixelWatch 2 on 5th Oct | Available exclusively @flipkart",
+        "view_count": 9540,
+        "like_count": 385,
+        "comment_count": 5,
+        "engagement_rate_percent": 4.04,
+        "fetched_at": "2026-05-25T11:05:23.709267"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "558_AS81U6A",
+        "title": "Brb, asking a friend to \u2018tu du ding\u2019 their dues \ud83e\udd2d",
+        "view_count": 7066,
+        "like_count": 218,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.09,
+        "fetched_at": "2026-05-25T11:05:23.709333"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "86oS4pdYQco",
+        "title": "POV: You understood the assignment with some help from AI Mode on Google Search.",
+        "view_count": 6289,
+        "like_count": 26,
+        "comment_count": 1,
+        "engagement_rate_percent": 0.41,
+        "fetched_at": "2026-05-25T11:05:23.709321"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "2_A09nUwaGA",
+        "title": "Starting 21st August, 2025, ask more of your phone.",
+        "view_count": 5892,
+        "like_count": 69,
+        "comment_count": 3,
+        "engagement_rate_percent": 1.17,
+        "fetched_at": "2026-05-25T11:05:23.709341"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "bSIcpqQRdc4",
+        "title": "This is the kind of colour coding on Sheets \u261d\ufe0f",
+        "view_count": 5198,
+        "like_count": 187,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.6,
+        "fetched_at": "2026-05-25T11:05:23.709288"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "NRf-ZI9-cRQ",
+        "title": "Watch until the end for a M3$$age \ud83e\udd2f\u2705",
+        "view_count": 2802,
+        "like_count": 101,
+        "comment_count": 0,
+        "engagement_rate_percent": 3.6,
+        "fetched_at": "2026-05-25T11:05:23.709351"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "z7QMD9nSdg8",
+        "title": "Marching down memory lane #RepublicDay",
+        "view_count": 1931,
+        "like_count": 73,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.78,
+        "fetched_at": "2026-05-25T11:05:23.709348"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@pareshmokani",
+        "text": "Absolutely brilliant ad. However the girl recovers very well after being shocked to hear the rates of apples. LOL",
+        "likes": 10,
+        "fetched_at": "2026-05-25T11:05:23.867156"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@takeapause.9274",
+        "text": "my reaction was the same as the lady when i first saw this ad on \ud83d\udcfa tv \ud83d\ude02",
+        "likes": 6,
+        "fetched_at": "2026-05-25T11:05:23.867185"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@vikrantabhishek",
+        "text": "i knew about this feature even before watching this ad",
+        "likes": 2,
+        "fetched_at": "2026-05-25T11:05:23.867191"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@mdghouse5923",
+        "text": "superb ad, credit to the concept head and for the lead lady.",
+        "likes": 1,
+        "fetched_at": "2026-05-25T11:05:23.867194"
+      },
+      {
+        "channel_id": "UCoVwq0vh-XD8RrEyDZ0KeJw",
+        "video_id": "oPbgT6bXF2A",
+        "author": "@mohammadismail3128",
+        "text": "its tooooooo goooood. . .bt never expected even gooogle can  provide its own advertisement",
+        "likes": 0,
+        "fetched_at": "2026-05-25T11:05:23.867197"
+      }
+    ],
+    "cached_at": "2026-05-25T11:05:25.461267"
+  },
+  {
+    "channel": {
+      "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+      "channel_name": "TON",
+      "total_views": 30183508,
+      "total_subscribers": 613000,
+      "total_videos": 498,
+      "fetched_at": "2026-05-25T11:05:24.545153"
+    },
+    "videos": [
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "title": "Crypto Chats Podcast #1 | GAMEE: Give users ownership. Get 5x more users.",
+        "view_count": 159519,
+        "like_count": 17027,
+        "comment_count": 643,
+        "engagement_rate_percent": 10.67,
+        "fetched_at": "2026-05-25T11:05:25.203818"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "3pZRK6w9V00",
+        "title": "How to Secure Your Crypto in 2025: Top Crypto Scams to Avoid | TON Learn #34",
+        "view_count": 26384,
+        "like_count": 2968,
+        "comment_count": 112,
+        "engagement_rate_percent": 11.25,
+        "fetched_at": "2026-05-25T11:05:25.203856"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "AP_X8ff7XCg",
+        "title": "Blockchain Innovation and Financial Efficiency: Insights from Anthony Scaramucci",
+        "view_count": 3144,
+        "like_count": 44,
+        "comment_count": 4,
+        "engagement_rate_percent": 1.4,
+        "fetched_at": "2026-05-25T11:05:25.203839"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "hQV8barUFos",
+        "title": "Build on TON and Reach Millions | TON",
+        "view_count": 2953,
+        "like_count": 107,
+        "comment_count": 3,
+        "engagement_rate_percent": 3.62,
+        "fetched_at": "2026-05-25T11:05:25.203845"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "mTsaONGrG6s",
+        "title": "How to Send Crypto to an External Wallet!",
+        "view_count": 2071,
+        "like_count": 23,
+        "comment_count": 4,
+        "engagement_rate_percent": 1.11,
+        "fetched_at": "2026-05-25T11:05:25.203850"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "m7SrPcxfUlo",
+        "title": "USDT on TON: The Fastest-Growing Blockchain Revolution! \ud83d\ude80 #CryptoNews #USDT #Blockchain",
+        "view_count": 599,
+        "like_count": 31,
+        "comment_count": 1,
+        "engagement_rate_percent": 5.18,
+        "fetched_at": "2026-05-25T11:05:25.203870"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "-qBvvoYyKi0",
+        "title": "Ton Foundation launches $500M Telegram RWA bond fund with Libre",
+        "view_count": 582,
+        "like_count": 7,
+        "comment_count": 1,
+        "engagement_rate_percent": 1.2,
+        "fetched_at": "2026-05-25T11:05:25.203861"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "GoVGeF3ZuD8",
+        "title": "How Oobit works?",
+        "view_count": 531,
+        "like_count": 19,
+        "comment_count": 1,
+        "engagement_rate_percent": 3.58,
+        "fetched_at": "2026-05-25T11:05:25.203865"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "or03qilbER4",
+        "title": "Save your money on #TON and #Telegram",
+        "view_count": 465,
+        "like_count": 53,
+        "comment_count": 1,
+        "engagement_rate_percent": 11.4,
+        "fetched_at": "2026-05-25T11:05:25.203880"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "LJ7MCEKmplY",
+        "title": "Unlock the Secret: How Tap to Earn Apps Fuel Explosive Growth in TON Utility Apps! \ud83d\ude80 #TON #Growth",
+        "view_count": 425,
+        "like_count": 25,
+        "comment_count": 1,
+        "engagement_rate_percent": 5.88,
+        "fetched_at": "2026-05-25T11:05:25.203875"
+      }
+    ],
+    "comments": [
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@unreleasedworld7010",
+        "text": "best project",
+        "likes": 3,
+        "fetched_at": "2026-05-25T11:05:25.460576"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@BekmurodUz",
+        "text": "Omad hamaga\u2764\u2764\u2764\u2764",
+        "likes": 0,
+        "fetched_at": "2026-05-25T11:05:25.460593"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@nogoumrecords4791",
+        "text": "\u0628\u0627\u0644\u062a\u0648\u0641\u064a\u0642 \ud83c\udf89\ud83c\udf89",
+        "likes": 0,
+        "fetched_at": "2026-05-25T11:05:25.460597"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@KeepGemWallet_Official",
+        "text": "Giving users ownership is a fascinating approach to drive engagement. It not only aligns incentives but also creates a deeper connection between the user and the platform. The real challenge will be ensuring that this model scales without compromising the user experience. How do you plan to address the potential complexities of managing decentralized ownership as the platform grows?",
+        "likes": 34,
+        "fetched_at": "2026-05-25T11:05:25.460600"
+      },
+      {
+        "channel_id": "UCUqjjzPbJzkiuTOCDSROg-w",
+        "video_id": "7vF9ua0a4xM",
+        "author": "@javeedahmadrather1357",
+        "text": "Vote for listening \u2764\ufe0f",
+        "likes": 0,
+        "fetched_at": "2026-05-25T11:05:25.460603"
+      }
+    ],
+    "cached_at": "2026-05-25T11:05:25.465275"
+  }
+]
