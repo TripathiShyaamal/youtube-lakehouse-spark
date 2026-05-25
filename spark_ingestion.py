@@ -1,3 +1,5 @@
+import subprocess
+subprocess.run(["pip", "install", "google-api-python-client", "google-auth-httplib2", "google-auth-oauthlib"], check=True)
 import json
 import sys
 from datetime import datetime
