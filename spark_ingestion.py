@@ -1,4 +1,5 @@
 import json
+import json as json_lib
 import urllib.request
 from pyspark.sql import SparkSession
 
@@ -26,17 +27,23 @@ for entry in cache:
     all_comments.extend(entry["comments"])
 
 if all_channels:
-    channel_df = spark.createDataFrame(all_channels)
+    channel_df = spark.read.json(
+    spark.sparkContext.parallelize([json_lib.dumps(r) for r in all_channels])
+)
     channel_df.write.mode("append").saveAsTable("youtube_tracker.channel_history")
     print(f"Channels written: {len(all_channels)}")
 
 if all_videos:
-    videos_df = spark.createDataFrame(all_videos)
+    video_df = spark.read.json(
+    spark.sparkContext.parallelize([json_lib.dumps(r) for r in all_videos])
+)
     videos_df.write.mode("append").saveAsTable("youtube_tracker.video_history")
     print(f"Videos written: {len(all_videos)}")
 
 if all_comments:
-    comments_df = spark.createDataFrame(all_comments)
+    comment_df = spark.read.json(
+    spark.sparkContext.parallelize([json_lib.dumps(r) for r in all_comments])
+)
     comments_df.write.mode("append").saveAsTable("youtube_tracker.comment_history")
     print(f"Comments written: {len(all_comments)}")
 
