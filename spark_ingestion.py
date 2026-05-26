@@ -1,7 +1,6 @@
 import json
 import urllib.request
 import tempfile
-import os
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("YouTubeIngestion").getOrCreate()
@@ -10,39 +9,31 @@ cache_url = "https://raw.githubusercontent.com/TripathiShyaamal/youtube-lakehous
 with urllib.request.urlopen(cache_url) as response:
     cache_data = json.loads(response.read().decode())
 
-# Print structure for debugging
-print("cache_data type:", type(cache_data))
-if isinstance(cache_data, list):
-    print("First item keys:", cache_data[0].keys() if cache_data else "empty")
-else:
-    print("Top-level keys:", list(cache_data.keys())[:3])
-
 all_channels = []
 all_videos = []
+all_comments = []
 
-# Handle both list and dict formats
-items = cache_data.items() if isinstance(cache_data, dict) else [(item.get("channel_name", str(i)), item) for i, item in enumerate(cache_data)]
-
-for channel_name, data in items:
+for item in cache_data:
+    ch = item.get("channel", {})
     all_channels.append({
-        "channel_name": str(channel_name),
-        "subscribers": int(data.get("subscribers") or 0),
-        "views": int(data.get("views") or 0),
-        "video_count": int(data.get("video_count") or 0),
-        "fetched_at": str(data.get("fetched_at", ""))
+        "channel_id": str(ch.get("channel_id", "")),
+        "channel_name": str(ch.get("channel_name", "")),
+        "total_views": int(ch.get("total_views") or 0),
+        "total_subscribers": int(ch.get("total_subscribers") or 0),
+        "total_videos": int(ch.get("total_videos") or 0),
+        "fetched_at": str(ch.get("fetched_at", ""))
     })
-    for v in data.get("videos", []):
+    for v in item.get("videos", []):
         all_videos.append({
-            "channel_name": str(channel_name),
-            "video_id": str(v.get("id", "")),
+            "channel_id": str(v.get("channel_id", "")),
+            "video_id": str(v.get("video_id", "")),
             "title": str(v.get("title", "")),
-            "views": int(v.get("views") or 0),
-            "likes": int(v.get("likes") or 0),
-            "comments": int(v.get("comments") or 0)
+            "view_count": int(v.get("view_count") or 0),
+            "like_count": int(v.get("like_count") or 0),
+            "comment_count": int(v.get("comment_count") or 0)
         })
 
-print("Channels found:", len(all_channels))
-print("Videos found:", len(all_videos))
+print("Channels:", len(all_channels), "Videos:", len(all_videos))
 
 def write_and_read(spark, records):
     if not records:
@@ -51,9 +42,7 @@ def write_and_read(spark, records):
     for r in records:
         tmp.write(json.dumps(r) + "\n")
     tmp.close()
-    df = spark.read.json("file://" + tmp.name)
-    os.unlink(tmp.name)
-    return df
+    return spark.read.json("file://" + tmp.name)
 
 spark.sql("CREATE DATABASE IF NOT EXISTS youtube_tracker")
 
