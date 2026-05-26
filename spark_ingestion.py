@@ -10,10 +10,20 @@ cache_url = "https://raw.githubusercontent.com/TripathiShyaamal/youtube-lakehous
 with urllib.request.urlopen(cache_url) as response:
     cache_data = json.loads(response.read().decode())
 
+# Print structure for debugging
+print("cache_data type:", type(cache_data))
+if isinstance(cache_data, list):
+    print("First item keys:", cache_data[0].keys() if cache_data else "empty")
+else:
+    print("Top-level keys:", list(cache_data.keys())[:3])
+
 all_channels = []
 all_videos = []
 
-for channel_name, data in cache_data.items():
+# Handle both list and dict formats
+items = cache_data.items() if isinstance(cache_data, dict) else [(item.get("channel_name", str(i)), item) for i, item in enumerate(cache_data)]
+
+for channel_name, data in items:
     all_channels.append({
         "channel_name": str(channel_name),
         "subscribers": int(data.get("subscribers") or 0),
@@ -31,6 +41,9 @@ for channel_name, data in cache_data.items():
             "comments": int(v.get("comments") or 0)
         })
 
+print("Channels found:", len(all_channels))
+print("Videos found:", len(all_videos))
+
 def write_and_read(spark, records):
     if not records:
         return None
@@ -47,12 +60,12 @@ spark.sql("CREATE DATABASE IF NOT EXISTS youtube_tracker")
 channel_df = write_and_read(spark, all_channels)
 if channel_df:
     channel_df.writeTo("youtube_tracker.channel_history").createOrReplace()
-    print("channel_history rows:", channel_df.count())
+    print("channel_history written:", channel_df.count())
 
 video_df = write_and_read(spark, all_videos)
 if video_df:
     video_df.writeTo("youtube_tracker.video_history").createOrReplace()
-    print("video_history rows:", video_df.count())
+    print("video_history written:", video_df.count())
 
 print("Done.")
 spark.stop()
